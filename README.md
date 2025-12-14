@@ -77,7 +77,6 @@ PORT=your_port_number
 HF_API_KEY=your_ai_api_key
 ```
 
----
 
 ### 4️⃣ Run the application locally
 
