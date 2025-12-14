@@ -1,0 +1,27 @@
+body {
+  background: radial-gradient(circle at top, #0a001f 0%, #000 60%);
+  background-attachment: fixed;
+  color: white;
+  overflow-x: hidden;
+  font-family: 'Inter', sans-serif;
+}
+
+/* Floating particles */
+.particle {
+  position: fixed;
+  width: 8px;
+  height: 8px;
+  background: rgba(0, 255, 255, 0.4);
+  border-radius: 50%;
+  box-shadow: 0 0 15px rgba(0, 255, 255, 0.6);
+  animation: floatUp 12s linear infinite;
+}
+
+@keyframes floatUp {
+  0% {
+    transform: translateY(100vh) scale(0.6);
+  }
+  100% {
+    transform: translateY(-20vh) scale(1);
+  }
+}
