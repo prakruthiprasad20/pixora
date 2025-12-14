@@ -13,7 +13,7 @@ Pixora is a modern full-stack AI image generation web application that allows us
 - Secure backend API handling (API keys never exposed)  
 - Dark, modern UI with glassmorphism effects  
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -32,7 +32,7 @@ Pixora is a modern full-stack AI image generation web application that allows us
 **AI Services**
 - HuggingFace (image generation)
 
----
+
 
 ## 🚀 Getting Started
 
@@ -43,7 +43,7 @@ git clone https://github.com/prakruthiprasad20/pixora.git
 cd pixora
 ````
 
----
+
 
 ### 2️⃣ Install dependencies
 
@@ -57,7 +57,7 @@ cd ../server
 npm install
 ```
 
----
+
 
 ### 3️⃣ Environment Variables
 
@@ -97,6 +97,5 @@ The app will be available at:
 http://localhost:3000
 ```
 
----
 
 
