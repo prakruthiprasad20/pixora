@@ -1,10 +1,7 @@
 ---
-
-````md
 # 🎨 Pixora — AI Image Generator
 
 Pixora is a modern full-stack AI image generation web application that allows users to generate, save, and favorite AI-generated artwork using natural language prompts.
-
 ---
 
 ## ✨ Features
